@@ -6,7 +6,7 @@ require (
 	github.com/aws/aws-sdk-go v1.25.8
 	github.com/miekg/dns v1.1.22 // indirect
 	github.com/prometheus/client_golang v1.1.0 // indirect
-	golang.org/x/crypto v0.0.0-20191002192127-34f69633bfdc // indirect
+	golang.org/x/crypto v0.31.0 // indirect
 	golang.org/x/time v0.0.0-20190921001708-c4c64cad1fd0 // indirect
 	k8s.io/api v0.0.0-20191003000013-35e20aa79eb8
 	k8s.io/apimachinery v0.0.0-20190913080033-27d36303b655
